@@ -1,6 +1,6 @@
 # Chiper_202010_Grupo_Canem
 
-Repositorio Arquitectura y Diseño de Software 2020-10
+Repositorio del proyecto de Arquitectura y Diseño de Software desarrollado para Chiper durante el semestre 2020-10.
 
 Integrantes del grupo Canem:
 
