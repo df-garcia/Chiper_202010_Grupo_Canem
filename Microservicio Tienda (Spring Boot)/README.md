@@ -2,7 +2,7 @@
 
 Repositorio Arquitectura y Diseño de Software 2020-10
 
-En este apartado del repositorio se encuentran los microservicios de Pedidos, Reportes y Analítica desarrollados bajo el framework Django.
+En este apartado del repositorio se encuentra el microservicio de Tienda desarrollado bajo el framework Spring Boot.
 
 Integrantes del grupo Canem:
 
