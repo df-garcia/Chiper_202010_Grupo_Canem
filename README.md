@@ -18,11 +18,7 @@ En este repositorio se encuentran los diferentes microservicios desarrollados pa
 
 # Documentación de Arquitectura
 
-A continuación, se presenta la arquitectura final presentada al cliente Chiper en el marco de la finalización del proyecto en el semestre 202010.
-
-## Vistas de arquitectura
-
-Los diagramas que se presentan son los de **contexto**, **dominio**, **componentes** y **despliegue** debido a que son los que reflejan las decisiones de arquitectura tomadas, con base en los ASR's propuestos.
+A continuación, se presenta la arquitectura final presentada al cliente Chiper en el marco de la finalización del proyecto en el semestre 202010. Los diagramas que se presentan son los de **contexto**, **dominio**, **componentes** y **despliegue** debido a que son los que reflejan las decisiones de arquitectura tomadas, con base en los ASR's propuestos.
 
 ## Diagrama de Contexto
 Muestra la interacción de la arquitectura con los componentes externos principales, stakeholders y clientes. El diagrama de Contexto propuesto se muestra a continuación:
