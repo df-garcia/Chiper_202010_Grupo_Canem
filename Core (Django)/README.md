@@ -1,8 +1,10 @@
-# ISIS2503-202010-S1-Canem
+# Chiper_202010_Grupo_Canem
 
 Repositorio Arquitectura y Diseño de Software 2020-10
 
-Integrantes:
+En este apartado del repositorio se encuentran los microservicios de Pedidos, Reportes y Analítica.
+
+Integrantes del grupo Canem:
 
 Daniel García
 
