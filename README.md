@@ -40,5 +40,5 @@ Muestra los componentes principales de infraestructura necesarios para la operac
 ![Sprint 4  Diagrama de despliegue (3)](https://user-images.githubusercontent.com/53946688/83205629-b9fced00-a114-11ea-9778-d2f8e86262c6.png)
 
 
-Finalmente, con el fin de mostrar la evolución de la arquitectura presentada a Chiper durante los diferentes sprints ejecutados durante el desarrollo de proyecto, se presenta la documentación en la pestaña **Wiki**.
+Finalmente, con el fin de mostrar la evolución de la arquitectura presentada a Chiper durante los diferentes sprints desarrollados durante el proyecto, se presenta la documentación en la pestaña **Wiki**.
 
